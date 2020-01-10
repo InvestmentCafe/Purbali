@@ -1,0 +1,54 @@
+
+#wb_header { height: 399px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat left top; background-size: auto auto; }
+#wb_main { height: 583px; padding-bottom: 70px; }
+#wb_main > .wb_cont_bg { background: #ffffff none repeat left top; background-size: auto auto; }
+#wb_footer { height: 80px; }
+#wb_footer > .wb_cont_bg { background: transparent url("gallery/vintage_footer.jpg") repeat scroll left top; }
+body { background: #ffffff none repeat-x scroll center top; background-size: auto auto; }
+.wb_sbg { background: transparent none repeat-x left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1062px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 992px; overflow: visible; min-height: 1062px; }
+#wb_element_instance23 { top: 35px; left: 70px; min-width: 380px; width: 380px; min-height: 28px; height: 28px; display: block; z-index: 2802; }
+#wb_element_instance24 { top: 11px; left: 10px; min-width: 50px; width: 50px; min-height: 70px; height: 70px; display: block; z-index: 3569; }
+#wb_element_instance24 img { width: 50px; height: 70px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance25 { top: 20px; left: 550px; min-width: 650px; width: 650px; min-height: 55px; height: 55px; display: block; z-index: 3780; }
+#wb_element_instance25 > ul { display: block; }
+#wb_element_instance25 ul { background: transparent none repeat left top; border: 1px none #000000; }
+#wb_element_instance25, #wb_element_instance25 ul { text-align: right; }
+#wb_element_instance25 ul ul { background: #ffffff none repeat left top; }
+#wb_element_instance25 li { margin: 10px 10px 10px 10px; }
+#wb_element_instance25 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 10px 10px 10px; font: normal bold 13px 'Open Sans',sans-serif; text-decoration: none; color: #1987b3; line-height: 15px; background: transparent none repeat left top; }
+#wb_element_instance25 li.over > a, #wb_element_instance25 li:focus > a { border: 0px none #000000; font: normal bold 13px 'Open Sans',sans-serif; text-decoration: none; color: #ff7a14; line-height: 15px; background: transparent none no-repeat center bottom; }
+#wb_element_instance25 li.active > a { border: 0px none #000000; font: normal bold 13px 'Open Sans',sans-serif; text-decoration: none; color: #ff7a14; line-height: 15px; background: transparent none no-repeat center bottom; }
+#wb_element_instance25:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance25:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance25:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance26 { top: 203px; left: 1px; min-width: 1199px; width: 1199px; min-height: 84px; height: 84px; display: block; z-index: 3571; }
+#wb_element_instance27 { top: 0px; left: 0; right: 0; min-height: 90px; height: 90px; display: block; z-index: 1205; }
+#wb_element_instance27 > .wb_shp { background: #ffffff none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 90px; }
+#wb_element_instance28 { top: 90px; left: 0; right: 0; min-height: 310px; height: 310px; display: block; z-index: 1186; }
+#wb_element_instance28 > .wb_shp { background: #004e8a none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 0.75; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 310px; }
+#wb_element_instance29 { top: 90px; left: 0; right: 0; min-height: 310px; height: 310px; display: block; z-index: 1172; }
+#wb_element_instance29 > .wb_shp { background: #ffffff url("../gallery_gen/95d017ea79203e5185f8c214ae56ac5d.jpg") repeat fixed center center; background-size: cover; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 310px; }
+#wb_element_instance30 { top: 0px; left: 0; right: 0; min-height: 80px; height: 80px; display: block; z-index: 166; }
+#wb_element_instance30 > .wb_shp { background: #000000 none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 80px; }
+#wb_element_instance31 { top: 80px; left: 140px; min-width: 910px; width: 910px; min-height: 363px; height: 363px; display: block; z-index: 74; }
+#wb_element_instance32 { top: 463px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance33 { top: 100px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance23 p:last-child { margin-bottom: 0; }
+#wb_element_instance26 p:last-child { margin-bottom: 0; }
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
